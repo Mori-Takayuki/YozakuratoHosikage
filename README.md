@@ -10,6 +10,7 @@
 このプロジェクトを通じて、TouchDesignerとPythonについて学びました。
 
 # 操作方法:
-1. ZipファイルをダウンロードしてGoogleformEffects.toeを開いてください。
+1. ZipファイルをダウンロードしてGoogleformEffects.toeを開いてください(OP('out1')が実際に鑑賞する画面です)
 2. 次にGoogleform回答リンク.txtファイルからGoogleformに移動し、星、桜、ハートの３種類のエフェクトから１つ選んで回答を送信してください。
-3. 少しすると選んだエフェクトが映像のランダムな位置に反映されます。
+3. 少しするとOP('webclient1')に回答データが追加されていることを確認してください。
+5. 選んだエフェクトが映像のランダムな位置に反映されます。エフェクトはOP('mooviefilein4')が星、OP('mooviefilein5')がハート、OP('mooviefilein3')が桜になります。
